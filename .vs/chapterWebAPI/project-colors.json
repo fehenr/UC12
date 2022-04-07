@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "19cbb371-eeed-48a5-b6d2-4d836a1b7758": {
+      "ProjectGuid": "19cbb371-eeed-48a5-b6d2-4d836a1b7758",
+      "DisplayName": "chapterWebAPI",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos aleatórios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

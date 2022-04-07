@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Levisq\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Levisq\\.nuget\\packages",
+      "D:\\Visual Studio microsoft\\Shared\\NuGetPackages"
+    ]
+  }
+}
